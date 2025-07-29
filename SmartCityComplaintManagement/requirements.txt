@@ -1,0 +1,6 @@
+
+gspread
+pandas
+pymongo
+oauth2client
+mysql-connector-python   
